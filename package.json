@@ -1,15 +1,30 @@
 {
-  "name": "colorly-lite",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "jest"
-  },
-  "keywords": [],
-  "author": "Vijay Adithya",
-  "license": "ISC",
-  "description": "",
-  "devDependencies": {
-    "jest": "^29.7.0"
-  }
+    "name": "colorly-lite",
+    "version": "1.0.0",
+    "description": "A lightweight, dependency-free Node.js library for color manipulation, conversion, and accessibility.",
+    "main": "index.js",
+    "types": "index.d.ts",
+    "scripts": {
+        "test": "jest",
+        "build": "tsc && node build.js",
+        "lint": "eslint . --fix",
+        "prepare": "npm run build"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/VijayAdithyaBK/colorly-lite"
+    },
+    "keywords": [
+        "color",
+        "hex",
+        "rgb",
+        "hsl",
+        "color manipulation"
+    ],
+    "author": "Vijay Adithya",
+    "license": "MIT",
+    "homepage": "https://github.com/yourusername/colorly-lite#readme",
+    "devDependencies": {
+        "jest": "^29.7.0"
+    }
 }
