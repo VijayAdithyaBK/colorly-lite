@@ -36,7 +36,7 @@ const ColorlyLite = require("colorly-lite");
 ```js
 const color = new ColorlyLite("#ff5733");
 
-console.log(color.toRgb()); // { r: 255, g: 87, b: 51 }
+console.log(color.color); // { r: 255, g: 87, b: 51 }
 console.log(color.toHsl()); // { h: 11, s: 100, l: 60 }
 console.log(color.toHex()); // "#ff5733"
 ```
