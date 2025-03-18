@@ -3,7 +3,7 @@ This file provides comprehensive documentation for the package.
 # colorly-lite 🎨  
 **Effortless color manipulation for Node.js—lightweight, fast, and dependency-free.**  
 
-![colorly-lite](https://img.shields.io/badge/colorly--lite-v1.0.0-blue)  
+![colorly-lite](https://img.shields.io/badge/colorly--lite-v1.0.1-blue)  
 ![Node.js](https://img.shields.io/badge/Node.js-14%2B-green)  
 ![License](https://img.shields.io/badge/license-MIT-blue)  
 
