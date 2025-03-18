@@ -5,10 +5,7 @@
     "main": "index.js",
     "types": "index.d.ts",
     "scripts": {
-        "test": "jest",
-        "build": "tsc && node build.js",
-        "lint": "eslint . --fix",
-        "prepare": "npm run build"
+        "test": "jest"
     },
     "repository": {
         "type": "git",
