@@ -1,5 +1,3 @@
-This file provides comprehensive documentation for the package.
-
 # colorly-lite 🎨  
 **Effortless color manipulation for Node.js—lightweight, fast, and dependency-free.**  
 
@@ -101,6 +99,3 @@ npm test
 
 ## 📜 License
 MIT License © 2025 **colorly-lite**  
-Feel free to use, modify, and distribute this package. 🚀
-
-Your **`colorly-lite`** package is now **production-ready**! 🎨🚀
